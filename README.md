@@ -1,7 +1,3 @@
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/spring-revo/sentry-info/releases)
-
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/spring-revo/sentry-files/blob/master/Sentry-prod-release.apk?raw=true)
-
 # Sentry 
 
 Sentry is an offline communication app using sms. This app lets you share news and track location or event as it happens with your trusted friends.
